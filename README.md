@@ -3,6 +3,7 @@ RecMVCNN - Simultaneous Classification and Reconstruction<br/>
 Bastian Wittmann, Andrew Desousa, and Florian Donhauser<br/>
 Project for the course "Machine Learning for 3D Geometry (IN2392)" offered at Technical University of Munich in SS2021
 
+The final report can be found in the `docs` directory.
 
 ## Environment Variables
 To use this project, you must set several envrionment variables beforehand in .env. Here is an example of what that should look like.
