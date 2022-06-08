@@ -4,9 +4,9 @@
 Made by Bastian Wittmann, Andrew Desousa, and Florian Donhauser. Project was made for the course "Machine Learning for 3D Geometry (IN2392)" offered at Technical University of Munich in SS2021. The final report can be found in the `docs` directory of this repository.
 
 ## Data
-This project utilized the ShapeNet dataset. We use the following files from ShapeNet 
+This project utilized the ShapeNet dataset. We use the following files from ShapeNet:
 - ShapeNet rendering images: http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
-- ShapeNet voxelized models: http://cvgl.stanford.edu/data2/ShapeNetVox32.tgz
+- ShapeNet voxelized models: http://cvgl.stanford.edu/data2/ShapeNetVox32.tgz.
 
 ## Environment Variables
 To use this project, you must set several envrionment variables beforehand in a `.env` file. Here is an example of what that should look like.
